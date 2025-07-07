@@ -1,0 +1,20 @@
+.bg-sign{
+  background-image: url('../../screen-ui/public/img/bg-sign.png');
+  background-size: cover;
+  height: 100vh;
+}
+.sign-heading{
+  padding-left: 50px;
+}
+section{
+  padding: 7.5rem 0;
+}
+.logo img{
+  width: 20%;
+}
+.sign-col{
+  background-color: goldenrod;
+}
+p{
+  text-align: justify;
+}
